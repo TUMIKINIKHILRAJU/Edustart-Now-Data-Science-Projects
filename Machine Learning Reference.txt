@@ -1,0 +1,15 @@
+Machine Learning
+
+Supervised ----> Classification
+          -----> Regression
+
+Unsupervised
+
+Reinforcement
+
+
+
+
+
+Data Collection ----> Data Preprocessing ---->Data Analysis/ Feature Selection
+-----> Model building ----->Prediction
